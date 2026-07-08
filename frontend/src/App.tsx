@@ -4,11 +4,26 @@ import ReferenceUploader from './components/ReferenceUploader'
 import Controls from './components/Controls'
 import PromptPreview from './components/PromptPreview'
 import Gallery from './components/Gallery'
+import PrivacyPolicy from './components/PrivacyPolicy'
 import { buildPrompt, seedsFor } from './lib/promptBuilder'
 import { pollinationsUrl } from './lib/pollinations'
 import type { GeneratedImage, GenSettings, ReferenceImage } from './types'
 
 export default function App() {
+  if (window.location.pathname === '/privacidad') {
+    return (
+      <div className="min-h-screen">
+        <Header />
+        <PrivacyPolicy />
+        <SiteFooter />
+      </div>
+    )
+  }
+
+  return <Home />
+}
+
+function Home() {
   const [references, setReferences] = useState<ReferenceImage[]>([])
   const [subject, setSubject] = useState('')
   const [settings, setSettings] = useState<GenSettings>({
@@ -107,13 +122,22 @@ export default function App() {
         </div>
       </main>
 
-      <footer className="border-t border-nabe-line mt-12">
-        <div className="mx-auto max-w-6xl px-5 py-6 text-xs text-ink/50 flex flex-wrap gap-x-4 gap-y-1">
-          <span>NABE · estudio de papelería</span>
-          <span>Generación gratuita vía Pollinations.ai (sin API key)</span>
-          <span>Buen gusto de UI vía taste-skill</span>
-        </div>
-      </footer>
+      <SiteFooter />
     </div>
+  )
+}
+
+function SiteFooter() {
+  return (
+    <footer className="border-t border-nabe-line mt-12">
+      <div className="mx-auto max-w-6xl px-5 py-6 text-xs text-ink/50 flex flex-wrap gap-x-4 gap-y-1">
+        <span>NABE · estudio de papelería</span>
+        <span>Generación gratuita vía Pollinations.ai (sin API key)</span>
+        <span>Buen gusto de UI vía taste-skill</span>
+        <a href="/privacidad" className="hover:text-ink underline underline-offset-2">
+          Política de Privacidad
+        </a>
+      </div>
+    </footer>
   )
 }
