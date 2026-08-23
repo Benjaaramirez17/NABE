@@ -1,0 +1,1158 @@
+===== PAGINA 1 =====
+Guía para elaborar el Informe del Trabajo de Titulación 
+Documentado por: 
+Jusbeth Zambrano Suárez
+Última revisión: julio 2023 
+Valdivia, octubre de 2020 
+
+===== PAGINA 2 =====
+i 
+Índice de Contenidos 
+ 
+Introducción ...................................................................................................................................... 7 
+Responsabilidades del Memorista ..................................................................................................... 8 
+1. Estructura del Trabajo de Titulación ......................................................................................... 9 
+1.1 Sección 1: Páginas Preliminares ............................................................................................. 9 
+1.2 Sección 2: Contenido del Documento Principal ................................................................... 11 
+1.3 Sección 3: Anexos. ............................................................................................................... 12 
+2. Requisitos de Forma ................................................................................................................ 13 
+2.1 Papel ..................................................................................................................................... 13 
+2.2 Márgenes .............................................................................................................................. 13 
+2.3 Encabezados: Títulos y Subtítulos ........................................................................................ 13 
+2.4 Tipo y Tamaño de Letra ....................................................................................................... 15 
+2.5 Espaciado y Símbolos Matemáticos ..................................................................................... 15 
+2.6 Sangría y Puntuación ............................................................................................................ 16 
+2.7 Números en el Texto y en Tablas ......................................................................................... 16 
+2.8 Ecuaciones ............................................................................................................................ 16 
+2.9 Paginación ............................................................................................................................ 17 
+2.10 Uso de Mayúsculas ............................................................................................................. 17 
+2.11 Tablas ................................................................................................................................. 18 
+2.12 Figuras ................................................................................................................................ 20 
+2.13 Citas en el Texto ................................................................................................................. 22 
+2.13.1 Cita textual de 40 palabras o más. ................................................................................ 22 
+2.13.2 Cita textual con menos de 40 palabras ......................................................................... 24 
+2.13.4 Citas de instituciones, organismos, corporaciones o fundaciones como autores ......... 25 
+2.13.5 Citas secundarias .......................................................................................................... 26 
+2.13.6 Cita comunicación personal ......................................................................................... 27 
+2.14 Referencias Bibliográficas .................................................................................................. 27 
+2.14.1 Referenciar libros, enciclopedias, diccionarios, monografías, tesis. ............................ 29 
+2.14.2 Referenciar leyes .......................................................................................................... 29 
+2.14.3 Referenciar podcast ...................................................................................................... 30 
+2.14.4 Referenciar vídeos de YouTube ................................................................................... 30 
+2.14.5 Referenciar artículos de revista en línea ...................................................................... 30 
+2.14.6 Referenciar páginas web de organización .................................................................... 30 
+2.14.7 Referenciar página web con un autor principal ............................................................ 30 
+2.14.8 Referencias páginas web dinámica .............................................................................. 30 
+2.14.9 Referenciar conferencias, simposios, congresos, seminarios. ...................................... 31 
+2.14.10 Citas y referencias de Normas de Calidad ................................................................. 32 
+2.15 Administración de Fuentes en Word .................................................................................. 32 
+2.16 Resumen del Formato General del Trabajo de Titulación .................................................. 33 
+3. Áreas y Subáreas de Ingeniería Civil Industrial ...................................................................... 34 
+Referencias ...................................................................................................................................... 34 
+Anexos ............................................................................................................................................. 35 
+
+===== PAGINA 3 =====
+7 
+7 
+Introducción
+Uno de los requisitos para la obtención del grado académico o título profesional de 
+Ingeniero Civil Industrial de la Universidad Austral de Chile corresponde al Trabajo de Titulación, 
+cuyo objetivo es que el estudiante demuestre; de manera autónoma y responsable; competencias 
+descritas en el proyecto de la carrera Ingeniería Civil Industrial. El desarrollo del trabajo de 
+titulación parte con la aprobación de la temática en el ramo de Anteproyecto de Seminario en el 
+décimo semestre y finaliza en el ramo Seminario de Titulación undécimo semestre, una vez 
+cumplido los requisitos de graduación y titulación de acuerdo a lo contemplado en el Artículo 55 
+del Reglamento Académico Estudiantil de Pregrado 2014 y de acuerdo al Instructivo para el 
+desarrollo del trabajo de titulación y el examen de grado aprobado por la escuela de Ingeniería 
+Civil Industrial el 11 de agosto de 2020. 
+El trabajo de titulación es un documento académico, por lo que su escritura debe ser rigurosa 
+y cumplir con ciertos requisitos para facilitar su comprensión, y por ser considerado como un 
+documento de revisión pública, debe mantener lineamientos normativos en su estructura, 
+redacción, presentación y en la inclusión de información de fuentes consultadas, esto último es 
+obligatorio, de lo contrario se considera como plagio. El propósito de esta guía es orientar al 
+memorista en la redacción, requisitos de forma y estructura del trabajo de titulación. 
+
+===== PAGINA 4 =====
+8 
+8 
+Responsabilidades del Memorista 
+Las relaciones entre usted, su patrocinante y copatrocinante (si aplica) son muy 
+importantes, estas deberían estar basadas en una serie de expectativas y responsabilidades, en este 
+sentido se espera que usted: 
+1. Se rija por el código de conducta de la Universidad y del organismo o empresa donde 
+desarrolle el trabajo de titulación (si aplica). 
+2. Mantenga comunicación con su patrocinante por las vías ya acordadas y en la frecuencia 
+establecida. 
+3. Cumpla con los estándares de integridad y honestidad intelectual a través de su trabajo, 
+incluyendo el documento final. 
+4. Tome en cuenta las observaciones recomendadas por su patrocinante e informantes. 
+5. Informe a su patrocinante cualquier cambio importante que pudiera afectar el progreso 
+de su trabajo de titulación. 
+6. Redacte y presente el trabajo de titulación siguiendo las sugerencias de la guía para la 
+elaboración del Informe. 
+7. Entregue el trabajo de titulación a su patrocinante para su revisión antes de consignarlo 
+en la dirección de escuela. Revisar el Instructivo para el desarrollo del trabajo de titulación y el 
+examen de grado de ingeniería civil industrial. 
+
+===== PAGINA 5 =====
+9 
+9 
+1. Estructura del Trabajo de Titulación 
+El trabajo de titulación está compuesto de tres secciones: 
+- Sección 1: Páginas preliminares 
+- Sección 2: Contenido del documento 
+- Sección 3: Sección final 
+ 
+Figura 1. Secciones del trabajo de titulación. 
+La sección 2, referida al contenido del documento, debe tener un máximo de 70 páginas.
+1.1 Sección 1: Páginas preliminares
+Portada. En la parte superior debe colocar el logotipo oficial de la Universidad Austral de 
+Chile a un tamaño de 3 cm. (alto) x 2,54 cm. (ancho) a un margen superior de 2 cm, Universidad 
+Austral de Chile, Facultad de Ciencias de la Ingeniería, Escuela de Ingeniería Civil Industrial. 
+Referencias 
+Conclusiones 
+Capítulo 3 
+Capítulo 2 
+Glosario 
+Lista de abreviaturas 
+Índice de figuras 
+Índice de Tablas 
+Índice de contenidos 
+Comisión de evaluación 
+Agradecimientos 
+Abstract 
+Capítulo 1 
+Introducción 
+Resumen 
+Declaración Estudiante 
+Portada Anexos 
+Páginas preliminares Contenido del documento Sección final
+
+===== PAGINA 6 =====
+10 
+10 
+En la parte central, en mayúscula y negrita, indique el Título del Trabajo de Titulación, a 
+un tamaño de 16, tipo de fuente Times New Roman, con un máximo de 16 palabras (los títulos no 
+terminan en punto final). Al lado izquierdo se deben agregar los datos del patrocinante: Primer 
+nombre y apellidos (se antepone la abreviatura de su último grado académico), en la línea siguiente 
+escribir el título de pregrado. Agregar la información para el copatrocinante (si aplica) y profesores 
+informantes; si el copatrocinante o informante no son académicos; eliminar la palabra profesor y 
+dejar copatrocinante o informante, en el caso donde aplique. En la parte inferior de la portada y 
+centrado agregar el nombre completo del memorista en mayúscula y negrita, indicar lugar y año de 
+la defensa (Ver anexo A). 
+Declaración del Estudiante (Anexo B). 
+Resumen. Debe ser escrito en tercera persona, tiempo pasado, usar espaciado 1.5 y sin 
+sangría. El resumen es una exposición clara y concisa del tema tratado en el trabajo de titulación, 
+los resultados obtenidos y las conclusiones. No debe exceder las 250 palabras. Se compone de un 
+solo párrafo (Anexo C), en el que se declara: la problemática y el objetivo general, la metodología, 
+los resultados obtenidos y las principales conclusiones. 
+En el párrafo siguiente al resumen, se deben declarar las Palabras clave, en un número no 
+mayor a cinco (5) términos separadas por coma. 
+Abstract. (Resumen en ingles) Brief description of the initial situation and motivation for 
+carrying out the work, the main goal and the activities completed during the research, the result 
+and main conclusions. The abstract should contain no more than 250 words (Anexo D). The 
+abstract should contain only with one paragraph where declare the initial situation and main goals, 
+describe the activities, materials and methods, present the results and present main conclusion. 
+Agradecimientos o reconocimientos (opcional) (Anexo E). 
+Dedicatoria (opcional). 
+Comisión de evaluación (Anexo F). 
+Índice de contenidos. Relación de los capítulos, títulos, subtítulos, anexos, tablas y figuras 
+y los números de página en que se inician, expuestos en el mismo orden en que aparecen en el texto 
+(Anexo G). 
+Índice Tablas y Figuras. Relación de las tablas y figuras y sus números de página, 
+expuestos en el mismo orden en que aparecen en el texto (Anexo H). 
+Listado de Abreviaturas (Anexo I). 
+
+===== PAGINA 7 =====
+11 
+11 
+Glosario. Lista en orden alfanumérico de símbolos, abreviaturas y términos técnicos o 
+propios del organismo o empresa receptora (Anexo J). 
+1.2. Sección 2: Contenido del documento principal 
+Lo conforma una serie de capítulos que presentan de manera clara y lógica los aspectos y 
+etapas del trabajo de titulación. Se enumeran consecutivamente con números arábigos. Cada 
+capítulo debe iniciarse en una nueva página, y su título se escribe en la parte superior de la hoja 
+(Nivel 1 de APA), centrada, en mayúscula la primera letra de cada palabra y en negrita, tamaño de 
+fuente 16. A continuación, se describen cada uno de los contenidos: 
+Introducción. Incluye la descripción de la situación actual o identificación del problema o 
+proyecto u oportunidad; objetivo general, objetivos específicos, organización o estructura del 
+trabajo, y la identificación de la empresa, organismo o contexto donde se desarrolla el proyecto o 
+investigación. No debe exceder 10 páginas. Puede llamarlo capítulo 1 o dejarlo solo como 
+Introducción, esto dependerá del tipo de trabajo de titulación. 
+Capítulo 1. Estado del Arte o Marco Teórico o Descripción del Sistema Real, esto va a 
+depender del tipo de trabajo de titulación a desarrollar. 
+- El Estado del Arte es el recorrido que se realiza a través de la investigación bibliográfica 
+con el objeto de conocer y sistematizar la producción científica en determinada área del 
+conocimiento, es la compilación de resultados de otras investigaciones para establecer qué se ha 
+hecho recientemente sobre el tema seleccionado. Se debe seguir los pasos y aspectos a incluir para 
+el desarrollo del Estado del Arte, realizando las respectivas citas de los autores. 
+- El marco teórico se construye basándose en lo que se desea investigar o desarrollar, 
+aclarando conceptos desde lo macro hasta lo específico; o viceversa, de acuerdo a la temática del 
+trabajo de titulación, incluyendo las teorías que fundamentan su desarrollo, citando el o los autores 
+consultados. 
+Capítulo 2. Metodología. Implica la descripción de los pasos, etapas, métodos, 
+procedimientos, materiales y equipos utilizados para el desarrollo de cada uno de los objetivos 
+planteados. No todos los trabajos llevan la metodología como capítulo, si es muy extensa y usted 
+realiza una combinación de metodologías o establece una propia, entonces la puede dejar en un 
+solo capítulo. Por el contrario, si es una metodología única y conocida, entonces la puede ubicar la 
+final de la Introducción o del capítulo 1.
+
+===== PAGINA 8 =====
+12 
+12 
+Capítulo 3. Desarrollo y discusión de resultados. En esta sección se desarrollan cada uno 
+de los objetivos, refleja la relación que existe entre los fundamentos teóricos y los resultados 
+obtenidos. Indicar la perspectiva para futuros trabajos.
+Nota: En algunos trabajos de titulación, el capítulo 3 se puede separar en dos capítulos; 
+quedando de la siguiente manera: a) Capítulo 3: Desarrollo del trabajo y b) Capítulo 4: Discusión 
+y análisis de Resultados; dependiendo de la temática a desarrollar se puede ver afectado el número 
+de capítulos del trabajo de titulación. 
+Conclusiones. Las conclusiones consisten en la presentación de enunciados elaborados a 
+partir de los resultados del trabajo de titulación, su análisis y la correspondencia con los objetivos 
+formulados. 
+Referencias bibliográficas. Consiste en la elaboración del listado de fuentes utilizadas para 
+el desarrollo del trabajo de titulación; deben ser ordenadas en estricto orden alfabético, teniendo 
+presente las normas correspondientes. Incluye, por ejemplo: documentos, fuentes impresas, fuentes 
+electrónicas, eventos científicos, trabajos de investigación, informes técnicos, textos, tesis, trabajos 
+de ascenso, revistas científicas, entre otros (Anexo K). 
+1.3 Sección final del trabajo. 
+Se refiere a los anexos del trabajo, comprenden la información que se adiciona para ilustrar 
+mejor el cuerpo del trabajo y deben ser reducidos a tamaño carta y ajustado a los márgenes de la 
+hoja. Se ubican después de las referencias bibliográficas, y van identificados (Anexo L). Los 
+anexos deben ir referidos en el texto del trabajo. En el caso de planos, doblarlos a un tamaño 
+equivalente a una hoja tamaño carta. 
+
+===== PAGINA 9 =====
+13 
+13 
+2. Requisitos de Forma
+El contenido del Informe debe ser en color negro, permitiendo el uso de colores solo para 
+los gráficos, tablas, figuras, planos, fotografías y anexos. Las páginas del Informe no deben estar 
+identificadas con logotipos, eslogan u otro elemento que identifique a la Universidad o a la empresa 
+u organismo receptor, salvo los anexos, formatos, tablas o imágenes que se incluyan dentro del 
+texto. La redacción del Trabajo debe ser en tercera persona y en pasado. 
+2.1 Papel 
+El trabajo de titulación debe elaborarse en papel Bond normal, tamaño carta, base 20, 
+impresa por un solo lado de la hoja. Las correcciones con líquido o cinta correctora no están 
+permitidas. El documento que se entrega a los miembros de la comisión evaluadora es en formato 
+digital. 
+2.2 Márgenes 
+Todas las páginas del trabajo de titulación deben tener los siguientes márgenes: 2,54 cm en 
+cada lado. Ninguna página debe tener texto fuera de los márgenes establecidos; en el caso de la 
+última línea, ésta no debe estar fuera del margen, ni demasiado arriba. Los anexos pueden tener 
+márgenes diferentes a los señalados anteriormente, tomando en consideración los espacios 
+mínimos requeridos para el encuadernado. 
+Después de una tabla o de una figura, menor de una página, el texto debe continuar, con el 
+fin de no dejar espacios grandes antes del margen inferior. De igual manera este criterio debe 
+respetarse en el caso de páginas que precedan a otra que contenga tabla o figura. En todo caso, el 
+objetivo es evitar páginas con grandes espacios en blanco dentro de un mismo capítulo. 
+A excepción de la portada, la tabla de contenidos y las páginas de títulos de anexos, todas 
+las páginas de texto deben tener alineación justificada. Cada capítulo debe empezar en la primera 
+línea de una nueva página, en la cual se identificará el título del capítulo. 
+2.3 Encabezados: Títulos y Subtítulos 
+En los trabajos de titulación de la carrera de Ingeniería Civil Industrial de la UACh se 
+permitirán tres tipos de encabezados. 
+Tipo 1: APA Nivel 1, con mayúsculas y minúsculas centrado (las palabras principales 
+
+===== PAGINA 10 =====
+14 
+14 
+iniciadas con mayúscula; vea la sección 2.10 Mayúsculas), tamaño de fuente 16 y en negrita. 
+Tipo 2: APA Nivel 2, en mayúsculas y minúsculas (las palabras principales con 
+mayúsculas), en negrita, alineado a la izquierda, sin sangría y tamaño de fuente 12. 
+Tipo 3: APA Nivel 4 con sangría de 1,27 cm (1 TAB), en negrita, primera palabra con 
+mayúscula, finaliza en un punto y aparte, tamaño de fuente 12; el texto del párrafo se inicia en la 
+siguiente línea dejando sangría. 
+Los títulos de tablas se escriben como un encabezado APA Nivel 3, pero sin sangría de 
+1,27cm (1 TAB). Las palabras de los encabezados de primero, segundo y tercer nivel se transcriben 
+exactamente igual en la tabla de contenido o índice. Se colocan solo tres niveles de encabezado o 
+título en el índice. La Figura 1 muestra los niveles de encabezado a utilizar. 
+Figura 2. Niveles de encabezado APA. 
+Nota: el encabezado tipo 3 corresponde a un APA nivel 4 modificado. 
+- Tipo 1. Este nivel se utilizará para los nombres de las páginas preliminares, Índices, 
+Introducción, Capítulos y Referencias. 
+- Tipo 2. Este nivel se utilizará en los subtítulos de cada capítulo. 
+- Tipo 3. Corresponde a subtítulos para encabezados tipo 2. 
+ A continuación, se detalla en la Tabla 1 los tipos de niveles de encabezado y sus formatos 
+de acuerdo a las Normas APA 
+APA nivel 1
+APA nivel 2
+APA nivel 4
+
+===== PAGINA 11 =====
+15 
+15 
+Tabla 1. Formato de encabezados a emplear basado en las normas APA
+Clasificación Formato 
+Tipo 1: 
+APA nivel 1 
+Encabezado APA 1 Centrado 
+(Cada Palabra Iniciando en Mayúscula, Negrita, fuente tamaño 16) 
+ Texto inicia en nuevo párrafo con sangría.
+Tipo 2: 
+APA nivel 2 
+Alineado a la izquierda (Cada Palabra Iniciando en Mayúscula, Negrita, fuente 
+tamaño 12)
+ Texto inicia en nuevo párrafo con sangría. 
+Tipo 3: 
+APA nivel 4 
+ Encabezado inicia con sangría de ½ pulgada (1.27 cm) (Primera palabra 
+iniciando en mayúscula, Negrita, Con punto final) 
+ Texto inicia en nuevo párrafo 
+Nota: Asociación Americana de Psicología (2020). 
+2.4 Tipo y Tamaño de Letra 
+Se debe usar letra Times New Roman, tamaño 12 puntos, salvo excepciones como 
+encabezados APA nivel 1, tablas muy grandes en las cuales se puede reducir el tamaño de la fuente 
+a 10 o 11 puntos con el fin de que la tabla quede ubicada en una sola página. En notas de tablas y 
+en pies de figuras, se debe usar tamaño 10 o 11 puntos, con el fin de diferenciarlas del texto que le 
+sigue. 
+Use letras normales para la mayoría de los párrafos. Nunca utilice subrayados, negritas, 
+colores, seriaciones (viñetas) con símbolos, ni superíndices (salvo en el caso de algunos 
+estadísticos). Use cursivas en los siguientes casos: a) en títulos de tablas y figuras, pero recuerde, 
+la identificación de la tabla y figura va en texto normal y en negrita (p.ej., Tabla 1. Capacidades 
+de los fermentadores de cerveza para barriles); b) en identificación de figuras, pero el pie de la 
+figura va en texto normal (p.ej., Figura 2. Litros vendidos por semana, por tipo y presentación de 
+cerveza); c) en palabras y símbolos que representen estadísticos, tanto en el texto como en tablas, 
+sin embargo, los subíndices o superíndices de estos estadísticos deben ir en texto normal; d) en la 
+lista de referencias bibliográficas los nombres de libros o los nombres de las revistas (Anexo K). 
+ 
+2.5 Espaciado y Símbolos Matemáticos 
+La norma es utilizar un espacio de 1,5 entre líneas de texto en todo el escrito, entre párrafos, 
+entre párrafos y tablas o figuras, sin embargo, hay excepciones. Se permite el uso de un solo espacio 
+en títulos y notas de tablas; en pies de figuras, en títulos que ocupen más de una línea, sin embargo, 
+si se hace uso de esta posibilidad, debe ser consistente en todo el documento. 
+Deje un espacio antes y después de los signos matemáticos =, >, <, ≤, ≥, -, +, pero no deje 
+
+===== PAGINA 12 =====
+16 
+16 
+espacio antes ni después de la barra diagonal que se use para fracciones, ni en el caso de productos 
+(ej. X > 10; X/2 = 5; X·Y = 18). Deje un espacio entre una cantidad numérica y la unidad 
+correspondiente, a excepción del símbolo de porcentaje y el símbolo de grados geométricos que se 
+escriben sin espacio (ej. 28 cm, 10%, 38 s, 27 ºC, 45º, 1.2 Pa). Si las unidades son compuestas y 
+usa abreviaturas, no deje espacio entre ellas, pero si usa los nombres completos si debe dejar un 
+espacio entre ellas; si las unidades se multiplican use el punto centrado entre ellas (ej. 45 Pa·s: 45 
+pascal segundo; 28 km/h: 28 kilómetros por hora). Deje un solo espacio después de los signos de 
+puntuación, incluyendo puntos, comas, punto y coma, dos puntos. 
+2.6 Sangría y Puntuación 
+La norma es usar sangría de 1,27 cm (1 TAB) al comienzo de cada párrafo; en línea de 
+series (viñetas) numeradas, en la segunda y siguientes líneas de cada referencia bibliográfica en la 
+lista de referencias; en los encabezados tipo 3. Las citas en bloque llevan una sangría de 1 TAB en 
+el lado izquierdo del bloque. Si la cita en bloque tiene más de un párrafo, la primera línea del 
+segundo y subsiguientes párrafos llevan una sangría adicional de 1 TAB. 
+2.7 Números en el Texto y en Tablas 
+La regla general es escribir los números iguales o superiores a 10 en números arábigos, y 
+los menores a 10 en letras, a lo largo del texto. Para fracciones decimales utilice el cero antes de la 
+coma si el número puede tomar valores superiores a la unidad (1), pero no use cero antes de la 
+coma decimal si el máximo valor posible del número es la unidad (1), por ejemplo: 0,25 m; 0,36 
+kg; p < 0,05. El número de dígitos debe reducirse lo más posible, sin afectar la precisión estadística 
+o el uso prospectivo. Una buena aproximación es de dos cifras decimales; es deseable la 
+consistencia a lo largo del documento, así como en las tablas, notas de tablas y pies de figuras. 
+2.8 Ecuaciones 
+Las ecuaciones sencillas deben incluirse dentro del texto y en la línea que corresponda (sin 
+saltar a una línea nueva), sin que se proyecten por encima o por debajo de ésta (ej. x = [- b ± (b2 
+- 
+4∙a∙b)1/2]/(2∙a); y = x/sen(x)). Una ecuación sencilla que vaya a ser citada posteriormente, y todas 
+las complejas deben colocarse desplegadas con espacio de 1,5 por encima y por debajo de la 
+ecuación y con un número consecutivo entre paréntesis cerca del margen derecho de la página, por 
+ejemplo: 
+
+===== PAGINA 13 =====
+17 
+17 
+  
+/ 2
+0
+2
+
+A sen x dx (1) 
+Cuando se cita una ecuación numerada, se escribe la referencia completa (ej. Ecuación 1) 
+2.9 Paginación 
+Las páginas preliminares no se enumeran. El resto de las páginas, a partir de la sección 1: 
+Introducción, que es la página 1 se enumeran con números arábigos, incluyendo los anexos, dos 
+líneas por debajo del margen y en el mismo tamaño de letra del texto, colocado en el margen 
+inferior derecho. 
+Si en el texto y los anexos se utilizan páginas apaisadas (orientación horizontal), se deben 
+compaginar con la parte superior del texto como margen izquierdo, por esa razón la numeración 
+normal dejaría mal ubicado el número de página, lo mejor sería eliminar ese número de página (o 
+escribirlo en color blanco) y marcarlo después en forma individual, utilizando la opción “cuadro 
+de texto”, colocado en el margen superior alineado a la derecha. 
+2.10 Uso de Mayúsculas 
+Reduzca al mínimo el uso de mayúsculas en el texto. Escriba con mayúscula la primera 
+letra de las palabras principales en los encabezados niveles 1 y 2 de APA, en los títulos de las 
+tablas, y en las páginas de título de los anexos. Se entiende por palabras principales todas las que 
+tengan cuatro o más letras, así como todos los verbos, los sustantivos, los adjetivos, los adverbios 
+y los pronombres, aunque tengan menos de cuatro letras; las conjunciones, artículos y 
+preposiciones cortas no se toman como palabras principales. (ej. por, para, el, los, ellos). Si un 
+término está compuesto por dos palabras separadas por guion, la primera letra de cada palabra se 
+escribe con mayúscula. 
+En los pies de figuras solo se escribe con mayúscula la primera letra del pie y de los nombres 
+propios incluidos en él. No escriba todas las letras de una palabra en mayúscula, a menos que se 
+trate de una palabra incluida en una dirección de una referencia electrónica (URL). En español no 
+se usan mayúsculas después de los dos puntos (:). En las referencias bibliográficas escriba solo en 
+mayúsculas la primera letra de la primera palabra de nombre del libro o del artículo y la primera 
+letra después de un punto seguido; escriba con mayúscula la primera letra de todas las palabras de 
+cuatro o más letras en los nombres de revistas. También se escriben con mayúscula las palabras 
+
+===== PAGINA 14 =====
+18 
+18 
+principales en títulos de libros y artículos incluidos en el cuerpo del documento. 
+Cuando haga referencia en el texto a una tabla o figura en particular, o a una ecuación 
+desplegada, escríbala con mayúscula (ej. Tabla 5, Figura 6, Ecuación 12), si hace referencia a varias 
+tablas, figuras o ecuaciones, no use mayúscula (ej. las tablas 5 a 7); pero no use mayúsculas cuando 
+se refiera a partes de un libro o publicación (ej. capítulo 2) 
+2.11 Tablas 
+Cada tabla deberá tener un tamaño máximo de una página, y no debe dividirse. Las tablas 
+deben ubicarse alineadas a la izquierda en la página, cada tabla tiene un número, un título, 
+encabezados de columnas y posiblemente notas al pie. El número de la tabla (p.ej. Tabla 1) se 
+escribe con números arábigos, y de manera correlativo, tal como va apareciendo en el texto, debe 
+estar alineado a la izquierda, sin sangría, en texto negrita, tamaño 12 y a espacio de 1,5 del texto 
+anterior. El título de la tabla se escribe a continuación de la numeración de la tabla, tamaño 12, con 
+el mismo tipo de letra del texto del trabajo y en cursivas, y con un punto al final; por ejemplo: 
+Tabla 10. Matriz de flujo. Si el título tiene más de una línea puede escribirse a espacio sencillo, 
+pero manteniendo consistencia a lo largo del trabajo. El tamaño de letra dentro de la tabla puede 
+reducirse a 11 o 10 puntos. Si existe una sola tabla en el documento principal o en cualquiera de 
+los apéndices, no la numere, identifíquela solo como Tabla. 
+Los encabezados de las columnas se escriben en texto normal, tamaño 12, centrados en la 
+columna, a espacio sencillo, centrados en el sentido vertical. En los encabezados se pueden emplear 
+abreviaturas y símbolos estándar para términos técnicos, sin necesidad de explicación. Otras 
+abreviaturas requieren explicación en una nota al pie de la tabla. Los símbolos o palabras que 
+representen estadísticos se escriben en letras cursivas tanto en las tablas como en el texto. 
+Las notas de pie de tabla se escriben en letra tamaño 10 o 11, para diferenciarlas del texto 
+del trabajo que va a continuación. Las notas pueden ser de tres tipos, a saber: 
+1) Notas generales que sirven para explicar o dar información sobre el contenido de la tabla, 
+y termina con una explicación de abreviaturas y símbolos empleados en la misma, se comienzan 
+con la palabra Nota, mismo tipo de fuente, tamaño 10 o 11, alineada a la izquierda y con dos puntos 
+para luego escribir la nota respectiva. 
+2) Notas específicas, se refieren a una fila, a una columna, o a una entrada específica, se 
+indican en la tabla mediante superíndices en minúsculas, con texto normal, empezando por la letra 
+
+===== PAGINA 15 =====
+19 
+19 
+“a” (a, b, c), tales superíndices deben escribirse en forma ordenada de izquierda a derecha y de arriba 
+a abajo. Las notas específicas son independientes de otras notas, y se escriben a continuación de 
+las notas generales, si éstas existen, comienzan con la letra “a” en superíndice. 
+3) Notas de probabilidad, que indican resultados de pruebas de significación, los asteriscos 
+señalan aquellos valores para los cuales se rechaza la hipótesis nula, con el valor de la probabilidad 
+(p) especificada en la nota de probabilidad. 
+Cada tipo de nota empieza alineada a la izquierda, sin sangría, en una nueva línea, y a 
+espacio 1,5. Las notas específicas pueden escribirse una a continuación de otra, en la misma línea, 
+igual que las notas de probabilidad. Cada nota termina en un punto final. 
+El texto en las celdas de la tabla debe alinearse a la izquierda. Los números deben ir 
+alineados por la derecha, pero usando tabuladores para que queden ubicados hacia el centro de la 
+columna. Si se usan valores con decimales, los números deben estar alineados por el punto (o coma) 
+decimal usando tabuladores y ubicados hacia el centro de la columna; el número de decimales debe 
+ser el mismo a lo largo de la columna. El contenido de cada columna debe ser homogéneo, o sea 
+que no debe combinar variables en una misma columna. Si no existen datos para una celda de la 
+tabla porque los datos no son aplicables, deje la celda en blanco; si los datos no se tomaron o no se 
+informaron, escriba un guion o raya horizontal en la celda. No se deben incluir líneas que totalicen 
+los valores de las columnas, estos totales, de ser necesarios, se explican en el texto. 
+En tablas grandes, el tamaño de letra usado dentro de la tabla puede llevarse a 11 o 10 
+puntos si con ello se logra que la tabla ocupe el ancho de la página o en el largo de la misma. 
+Recuerde que el interlineado de párrafo en una tabla puede ajustarse a sencillo, 1,5 o doble de modo 
+de elegir la mejor presentación de la información que contiene la tabla y espaciado uniforme en el 
+sentido vertical (esto es que la distancia entre el contenido de las celdas y entre las diferentes líneas 
+de la tabla debe ser uniforme), tal como se muestra en la Tabla 2. 
+Tabla 2. Capacidades de los fermentadores de cerveza para barriles.
+Nota: Cuello Negro SPA (2019). 
+Cantidad 
+fermentadores 
+Cantidad preparaciones 
+para llenado 
+Volumen 
+preparación (litros) 
+Capacidad 
+(litros) 
+Tipo de 
+cerveza 
+8 2 1200 2.400 Ámbar 
+1 2 900 1.800 Stout 
+2 2 900 1.800 Stout 
+1 2 900 1.800 Stout 
+
+===== PAGINA 16 =====
+20 
+20 
+Sugerencia: para lograr un espaciado uniforme a lo largo de la tabla, seleccione el 
+contenido de la misma, vaya al menú Formato/Párrafo/Sangría y espacio, en la sección Espaciado 
+escoja Interlineado: Sencillo y en espaciado seleccione espaciado anterior: 6 puntos y espaciado 
+posterior: 6 puntos. 
+Cuando la tabla es de elaboración propia no es necesario agregar ningún tipo de declaración 
+de derechos de autor. En APA se asume que todo lo que no tenga cita (o la declaración de derechos 
+de autor) es de autoría del propio autor. 
+2.12 Figuras 
+Todos los elementos visuales diferentes a las tablas se consideran figuras; tal como los 
+diagramas, fotografías, imágenes, gráficos, mapas, dibujos, entre otros. Cada figura será citada o 
+referenciada en el texto, y luego se debe insertar en la página, dentro de los márgenes establecidos, 
+colocarla centrada y en posición horizontal. 
+Cada figura tiene un pie de figura o leyenda ubicada en la parte inferior de la misma, la cual 
+empieza por un número de figura escrito en negrita, indicando el correlativo de la figura dentro del 
+texto, seguido de un punto y luego el título en cursiva, del mismo tipo de letra que el utilizado en 
+el texto del documento; por ejemplo: Figura 4. Distribución…, debe estar con interlineado sencillo 
+o de un punto, alineado a la izquierda, sin sangría, tamaño 10 o 11, separada 1.5 espacio de la 
+figura. Solo la primera palabra y los nombres propios incluidos en el pie de figura se escriben con 
+mayúscula, el resto del texto se escribe con minúscula. Si el pie de figura tiene más de una línea, 
+puede escribirse a un solo espacio (interlineado sencillo), manteniendo la separación a 1.5 espacio 
+con el borde inferior de la figura y con el texto del documento; este tratamiento debe ser consistente 
+a lo largo del documento. La primera oración del pie de figura se usa como título en la tabla de 
+contenidos. 
+Si existen figuras en los apéndices numérelas empezando por la letra del apéndice seguida 
+de un número arábigo; por ejemplo: Figura B3. …. Si existe una sola figura en el documento 
+principal o en cualquiera de los apéndices, no las numere, identifíquela solo como Figura. Las 
+etiquetas de los ejes y las leyendas al interior de la figura deben ir en un tipo de letra san serif (tipo 
+sugerido Arial) de tamaño 10 puntos o mayor (Ver Figura 3). 
+
+===== PAGINA 17 =====
+21 
+21 
+Figura 3. Litros vendidos por semana, por tipo y presentación de cerveza. 
+Nota: Cuello Negro SPA (2019). 
+Cuando la figura es de elaboración propia no es necesario agregar ningún tipo de 
+declaración de derechos de autor. En APA se asume que todo lo que no tenga cita (o la declaración 
+de derechos de autor) es de autoría del propio autor. 
+Para referenciar una figura publicada por otro autor sin modificarla o realizando alguna 
+adaptación, debe proporcionar una declaración de derechos de autor debajo de la figura. De esta 
+manera, los créditos de derechos autorales de una figura deben aparecer en la nota (ver Tabla 3), 
+siguiendo el siguiente formato: 
+Tabla 3. Formato para referenciar figuras de acuerdo al tipo de fuente
+Tipo de fuente Formato 
+Página Web Nota: Adaptado de Virus VIH [Fotografía], por Consejo Superior de 
+Investigaciones Científicas, 2011, Flickr (https://flic.kr/p/aronSf). CC BY 
+2.0
+Libro Nota: Adaptado de Stocks for the Long Run (p. 120), por J. J. Siegel, 
+2014, McGraw-Hill Education. 
+Figura de un artículo de 
+una revista 
+Nota: Adaptado de “Titulo del artículo” (p. 187), por A. Apellido, 
+2019, Título de la Revista, 3 (17).
+Nota: Adaptado de Titulo de la imagen, de Autor de la imagen, año de publicación de la imagen, Fuente. Tipo de 
+licencia. 
+ 
+Es importante estar atento a los términos de los derechos de autor de figuras, determinar si 
+se requiere permiso o puedes reproducirlo libremente en su trabajo académico. Para ello se debe 
+tener en cuenta los tipos de derechos de autor más comunes: 
+
+===== PAGINA 18 =====
+22 
+22 
+- Todos los derechos reservados. En este caso debe solicitar la autorización o permiso 
+por escrito del titular de los derechos de autor. Este tipo de declaración suele aparecer como 
+Copyright o por el símbolo ©.
+- Creative Commons. Con este tipo de licencia se permite reproducir y adaptar una obra, 
+figura, sin la necesidad de obtener un permiso del titular de los derechos de autor, siempre cuando 
+otorgue crédito al autor original en forma de declaración de derechos de autor. Las licencias suelen 
+aparecer como Creative Commons, CC. 
+- Dominio público. Estas no están sujetas a derecho de autor, por lo tanto, se pueden 
+reproducir y adaptar como se desee, siempre y cuando acredite al autor original en forma de 
+declaración de derechos de autor. 
+- Sin Copyright indicado. De no estar indicado, entonces puede tratar la obra como si 
+tuviera todos los derechos reservados. 
+2.13 Citas en el Texto 
+Los trabajos publicados en la literatura especializada que usted investigó para su Trabajo 
+de titulación se van citando a lo largo del texto, por autor y fecha y, en caso de citas textuales, 
+incluyendo el número o los números de página. Este tema se puede consultar en el manual APA 
+séptima edición versión inglés, y en la cuarta edición versión español. Las citas se clasifican en 
+citas textuales y citas parafraseadas. 
+Las citas textuales son aquellas donde se transcribe exactamente lo que dice el autor, y de 
+acuerdo a la cantidad de palabras que la conformen, estás cambian su presentación en el texto; se 
+tienen las citas textuales de más de 40 palabras y las citas textuales hasta 40 palabras (Ver Figura 
+4). 
+2.13.1 Cita textual de 40 palabras o más. 
+También llamada cita en bloque, se escribe aparte del texto, con el mismo tipo y tamaño de 
+fuente, sin cursiva y se deben tener en cuenta los siguientes aspectos: 
+1. No utilizar comillas para encerrar una cita en bloque. 
+2. Comenzar una cita en bloque en una nueva línea y sangría en todo el bloque a 0,5 
+pulgadas (1,27 cm) del margen izquierdo. 
+3. Utilizar el mismo interlineado del texto para la cita en bloque completa. 
+4. No agregar espacio adicional antes o después. 
+5. Si hay párrafos adicionales dentro de la cita, agrega sangría en la primera línea de cada 
+
+===== PAGINA 19 =====
+23 
+23 
+párrafo subsecuente con 0,5 pulgadas adicionales. 
+Figura 4. Clasificación de las citas en el texto.
+Dependiendo de cómo se haga mención a la cita; ya sea basada en el texto (parentética) o 
+basada en el autor (narrativa), los datos de la fuente aparecerán antes de la cita o al final de la cita. 
+Ejemplo de una cita textual: 
+ Los investigadores han estudiado cómo las personas hablan consigo mismas: 
+El discurso interno es un fenómeno paradójico. Es una experiencia que es fundamental para 
+la vida cotidiana de muchas personas y, sin embargo, presenta desafíos considerables para 
+cualquier esfuerzo por estudiarla científicamente. Sin embargo, una amplia gama de 
+metodologías y enfoques se han combinado para arrojar luz sobre la experiencia subjetiva 
+del habla interna y sus fundamentos cognitivos y neuronales. (Alderson-Day y Fernyhough, 
+2015, p. 957) 
+
+===== PAGINA 20 =====
+24 
+24 
+ Cuando el autor va entre paréntesis se dice que la cita está basada en el texto y se le puede 
+llamar cita parentética. También se puede citar basándose en el autor, a esta cita se le llama cita 
+narrativa, es cuando se menciona al autor o autores antes de la cita en bloque, tal como se puede 
+visualizar en los siguientes dos ejemplos: 
+Ejemplo 1: 
+Los investigadores Alderson-Day y Fernyhough (2015) han estudiado cómo las personas 
+hablan consigo mismas: 
+El discurso interno es un fenómeno paradójico. Es una experiencia que es fundamental para 
+la vida cotidiana de muchas personas y, sin embargo, presenta desafíos considerables para 
+cualquier esfuerzo por estudiarla científicamente. Sin embargo, una amplia gama de 
+metodologías y enfoques se han combinado para arrojar luz sobre la experiencia subjetiva 
+del habla interna y sus fundamentos cognitivos y neuronales. (p. 957) 
+Ejemplo 2: 
+Desde el 2015, los investigadores Alderson-Day y Fernyhough han estudiado cómo las 
+personas hablan consigo mismas: 
+El discurso interno es un fenómeno paradójico. Es una experiencia que es fundamental para 
+la vida cotidiana de muchas personas y, sin embargo, presenta desafíos considerables para 
+cualquier esfuerzo por estudiarla científicamente. Sin embargo, una amplia gama de 
+metodologías y enfoques se han combinado para arrojar luz sobre la experiencia subjetiva 
+del habla interna y sus fundamentos cognitivos y neuronales. (p. 957) 
+2.13.2 Cita textual con menos de 40 palabras 
+Estas deben incorporarse al texto y quedar encerrada entre comillas dobles. Si la cita 
+aparece en la mitad de una oración en el texto, finalice el pasaje con comillas, cite la fuente entre 
+paréntesis inmediatamente después de las comillas y continúe la oración. No es necesario utilizar 
+ninguna otra puntación si la frase no lo requiere. Se tiene la cita textual con menos de 40 palabras 
+narrativa y la parentética. 
+Cita textual con menos de 40 palabras narrativa: analizando la crisis financiera del 2008, 
+Lynch (2012) afirma que “la crisis ha sido motivada por lo que hay de más perverso en el mundo 
+capitalista” (p. 127), contribuyendo a un clima general de negatividad con los partidos de derecha. 
+Cita textual con menos de 40 palabras parentética: varios economistas han afirmado en 
+
+===== PAGINA 21 =====
+25 
+25 
+la crisis financiera del 2008 que “la crisis ha sido motivada por lo que hay de más perverso en el 
+mundo capitalista” (Lynch, 2012, p. 127) lo que ha contribuido para un malestar con los partidos 
+de derecha por el mundo. 
+Si la cita aparece al final de una oración, cierre el pasaje citado con comillas, cite la fuente 
+entre paréntesis inmediatamente después de las comillas y termine con un punto fuera del paréntesis 
+final. Ejemplo: … Se ha afirmado en quiebra de Wall Street en el 2008 que “la crisis ha sido 
+motivada por lo que hay de más perverso en el mundo capitalista” (Lynch, 2012, p. 127). 
+2.13.3 Citas parafraseadas 
+Es la interpretación de la idea de un autor con sus propias palabras, de esta manera resumes, 
+sintetizas, analizas, comparas, discierne información de una o más fuentes, buscando la 
+información relevante para el desarrollo de su trabajo. En este caso también se emplean las citas 
+narrativas (con énfasis en el autor o autores) y citas parentéticas (con énfasis en el texto), a 
+continuación, se mencionan ejemplos de cada una de estas citas: 
+Cita parafraseada narrativa. Según la Agencia Europea para la Seguridad y la Salud en 
+el Trabajo (2007) la mayor parte de los TME son trastornos acumulativos resultantes de una 
+exposición repetida a cargas más o menos pesadas durante un período de tiempo prolongado. Los 
+TME no solo producen sufrimiento personal y disminución de ingresos, sino que además suponen 
+un elevado coste para las empresas y para las economías nacionales 
+ Cita parafraseada parentética. Uno de los principales riesgos a los que se encuentran 
+expuestos los trabajadores del área de la salud son riesgos ergonómicos y de carga mental. Según 
+un estudio realizado, se establece un acuerdo de que existe una preocupación por las condiciones 
+de trabajo y las deficiencias en la salud de los trabajadores dedicados a la atención hospitalaria en 
+Chile (Bravo Carrasco y Espinoza Bustos, 2016). 
+2.13.4 Citas de instituciones, organismos, corporaciones o fundaciones como autores 
+También recibe el nombre de autor corporativo. En la cita abrevia el nombre de un autor 
+corporativo usando su acrónimo, si este es bien conocido, ejemplo la ONU, OEA. Cuando se trate 
+de una organización que nos sea conocida, debes escribir el nombre completo en la primera cita e 
+insertar la abreviatura entre paréntesis /corchetes después del nombre completo. Como regla 
+general, no debemos usar abreviaturas en la lista de referencias, pero es permitido en las citas y en 
+
+===== PAGINA 22 =====
+26 
+26 
+el texto en general. Y cuando se use por primera vez un término que se abrevie en el texto, se debe 
+presentar la versión completa del término y luego la abreviatura. 
+Cita narrativa usando acrónimo parafraseada. La primera vez que aparece en el texto: 
+Oficina Nacional de Emergencia del Ministerio del Interior (ONEMI,2014); en las siguientes citas: 
+tal como lo menciona ONEMI (2014). 
+Cita parentética usando acrónimo textual. La primera vez que aparece en el texto: … 
+como medidas de prevención. (Oficina Nacional de Emergencia del Ministerio del Interior 
+[ONEMI], 2014, p.25); en las siguientes citas: … menciona que hay alerta amarilla (ONEMI, 
+2014, p.25). 
+2.13.5 Citas secundarias 
+Llamada cita de cita. En cualquier informe académico siempre debemos utilizar la fuente 
+primaria al citar, esto es ir directamente a donde se encuentra el contenido original. Si posible 
+busque la fuente original y realice la cita desde ese documento, emplee solo citas de fuente 
+secundarias cuando el trabajo original no está disponible. Siga estas instrucciones cuando cite una 
+fuente secundaria: 
+1. En la lista de referencias, proporcione una entrada para la fuente secundaria que utilizó. 
+2. En el texto, identifique la fuente primaria y escriba “como se citó en” y apunte la fuente 
+secundaria. 
+3. Si se conoce el año de publicación de la fuente primaria, inclúyalo también en la cita 
+del texto. 
+Por ejemplo, si lees un trabajo de Sánchez (2009) en el que se citó a Ayala (1983), y no 
+pudiste leer el trabajo de Ayala, cite el trabajo de Ayala como la fuente original, seguido del 
+trabajo de Sánchez. Solo el trabajo de Sánchez debe aparecer en la lista de referencias. 
+Cita en paréntesis: (Ayala, 1983, como se citó en Sánchez, 2009) 
+Cita narrativa: Ayala (1983, como se citó en Sánchez, 2009) afirma que no todas las 
+estrellas que brillan hoy, brillarán mañana. 
+Las Normas APA en su séptima edición hacen mención a las citas con más de un autor, y 
+como referenciarlas, tal como se refleja en la Tabla 4, de igual manera se destaca que en español 
+se debe usar la “y” y no el símbolo “&” para citas y referencias. A partir de tres autores se abrevia 
+utilizando la palabra et al luego del nombre del primer autor (a menos que hacerlo cree 
+ambigüedad). 
+
+===== PAGINA 23 =====
+27 
+27 
+2.13.6 Cita comunicación personal 
+Para efectos del estilo APA consideramos como comunicaciones personales: cartas 
+privadas, notas, correos electrónicos, mensajes de grupos de discusión no archivados o privados, 
+entrevistas personales, conversaciones telefónicas y similares. Como características en común, no 
+somos capaces de proporcionar una manera que el lector acceda a estos datos para corroborar lo 
+que decimos y profundar su lectura. Por lo tanto, las comunicaciones personales no se incluyen en 
+la lista de referencias bibliográficas. 
+Se deben citar aquellas comunicaciones personales que tengan relevancia académica para 
+el desarrollo del trabajo de titulación, proporcionando inicial(es) del nombre y apellido (s) del 
+comunicador, y una fecha lo más exacta posible, ejemplo: 
+De acuerdo con datos internos de la organización, el promedio de producción diaria en los 
+últimos tres meses del año 2020 fue de 101.100 lb/día (R. Velásquez, comunicación personal, 4 de 
+enero de 2021). 
+2.14 Referencias Bibliográficas 
+El título de la sección debe ser “Referencias Bibliográficas”, centrado en la primera línea 
+de una nueva página y a doble espacio de la primera referencia. 
+Las referencias se listan en orden alfabético por el primer apellido del autor, y solo deben 
+aparecer las que hayan sido citadas en el texto, y cada una utiliza sangría francesa, esto es, la 
+primera línea sin sangría, alineada a la izquierda y las siguientes líneas con una sangría de 1 TAB. 
+Las diferentes líneas de una referencia deben ir a un solo espacio (interlineado sencillo), pero el 
+espaciado entre referencias debe ser de 1.5, cuando haya más de un autor en la referencia, únalos 
+con la letra “y” (Ver Anexo H). 
+
+===== PAGINA 24 =====
+6 
+2
+8
+Tabla 4. Citas y referencias con uno, dos y más autores; desde un apellido y un nombre hasta dos apellidos y dos nombres.
+Nombre del autor(es) Cita basada en el texto 
+(parentéticas) 
+Cita basada en el autor 
+(narrativa) 
+Referencias 
+Omar Luna (Luna, 2020) Luna (2020) Luna, O. 
+Antonio José Manrique Jaimes (Manrique Jaimes, 2020) Manrique Jaimes (2020) Manrique Jaimes, A. J. 
+David Von Hombeck (Von Hombeck, 2020) Von Hombeck (2020) Von Hombeck, D. 
+Carl R. St.Paul (St.Paul, 2020) St.Paul (2020) St.Paul, C. R. 
+María López de Ruíz (López de Ruíz, 2020) López de Ruíz (2020) López de Ruíz, M. 
+Carlos Carrillo Yañez y Josefa 
+Contreras 
+(Carrillo Yañez y Contreras, 2020) Carrillo Yañez y Contreras (2020) Carrillo Yañez, C. y Contreras, J. (2020) 
+Suárez Martha, Zambrano 
+José, Sayago Santiago, 
+Martínez Laura, Fernández 
+Sophia 
+(Suárez et al., 2008) Suárez et al. (2008) Suárez, M., Zambrano, J., Sayago, S., 
+Martínez, L. y Fernández, S. (2008)
+Ley 1060 (Ley 1060, 2006) Ley 1060 (2006) Ley 1060 de 2006. Por la cual se modifican las 
+normas que regulan la impugnación 
+de la paternidad y la maternidad. 26 
+de julio de 2006. D.O. No. 46341. 
+ 
+Ben Alderson-Day y Charles 
+Fernyhough 
+(Alderson-Day y Fernyhough, 2015) Alderson-Day y Fernyhough (2015) Alderson-Day, B. y Fernyhough, C. (25 de 
+mayo de 2015). Inner Speech: 
+Development, Cognitive Functions, 
+Phenomenology, and Neurobiology. 
+Psychological Bulletin. Advance 
+online publication. 
+http://dx.doi.org/10.1037/bul0000021
+ 
+
+===== PAGINA 25 =====
+29 
+29 
+Las publicaciones electrónicas consultadas deben ser de revistas arbitradas o bases de datos 
+especializadas en el área y debe estar identificado el autor o los autores. Para estas publicaciones 
+se siguen los mismos criterios generales que para las impresas cuando se trata de publicaciones 
+periódicas o no periódicas. En estos casos se debe indicar la fecha en que fue consultada y la 
+dirección electrónica. Como en general las direcciones electrónicas son largas, los procesadores de 
+palabras tienden a pasarlas a una nueva línea. Estas direcciones electrónicas deben dividirse de 
+manera que llegue lo más cercano posible al margen derecho de la página; el corte debe hacerse 
+después de una barra diagonal (/) o antes de un punto (.), sin agregar guiones. 
+ 
+2.14.1 Referenciar libros, enciclopedias, diccionarios, monografías, tesis. 
+ La Tabla 5 muestra el formato general a utilizar de acuerdo al tipo de presentación de la 
+fuente a referenciar. 
+Tabla 5. Formato general de acuerdo al tipo de presentación de la fuente.
+Presentación Formato 
+Impreso Apellido, N. (año). Título del trabajo (edición)*. Editorial. 
+En línea Apellido, N. y Apellido, N. (año). Título del libro. Editorial. DOI o URL
+Con editor Apellido, N. (Ed.). (año). Título del trabajo. Editorial. 
+Nota: *Edición: si está disponible debe registrarla entre paréntesis y seguida de un punto. 
+Ejemplo de referencia libro completo, versión impresa. 
+Herrera Cáceres, C. y Rosillo Peña, M. (2019). Confort y eficiencia energética en el diseño de 
+edificaciones. Universidad del Valle. 
+Ejemplo de referencia libro completo, versión electrónica 
+Herrera Cáceres, C. y Rosillo Peña, M. (2019). Confort y eficiencia energética en el diseño de 
+edificaciones. Universidad del Valle. https://www.reddebibliotecas.org.co/ 
+2.14.2 Referenciar leyes 
+Ley Número (año de la ley). Asunto. Fecha de promulgación. Número en el Diario Oficial. 
+Ley 1060 (2006). Por la cual se modifican las normas que regulan la impugnación de la paternidad 
+y la maternidad. 26 de julio de 2006. D.O. No. 46341. 
+Título de la ley. (año). Nombre publicación oficial en cursiva, nº de publicación en cursiva, sección 
+publicación en cursiva. fecha publicación, página inicial - página final. 
+https://www.xxxxxxxxx 
+
+===== PAGINA 26 =====
+30 
+30 
+Ley 17/2011, de 5 de julio, de seguridad alimentaria y nutrición. (2011). Boletín Oficial del Estado, 
+160, sec. I. 6 de julio de 2011, 1283 a 1319. 
+ https://www.boe.es/boe/dias/2011/07/06/pdfs/BOE-A-2011-11604.pdf 
+2.14.3 Referenciar podcast 
+Ramos, L. (Anfitrión). (2015-presente). Libros para emprendedores [Podcast]. Spotify. 
+https://open.spotify.com/show/0qXuVDCYF8HvkEynJwHULb 
+2.14.4 Referenciar vídeos de YouTube 
+Canal REDMÁS. (19 de septiembre de 2017). Antanas Mockus en Confesiones [Archivo de Vídeo]. 
+Youtube. https://youtu.be/de_4nTCHtJs 
+2.14.5 Referenciar artículos de revista en línea 
+Bedoya, C. y Dzul, L. (2015). El concreto con agregados reciclados como proyecto de 
+sostenibilidad urbana. Revista ingeniería de construcción, 30 (2), 99-108. 
+https://dx.doi.org/10.4067/S0718-50732015000200002 
+2.14.6 Referenciar páginas web de organización 
+Ministerio de Educación (2020, enero). Directorio Instituciones Ed. Superior. 
+https://educacionsuperior.mineduc.cl/directorio-instituciones-ed-superior/ 
+Ministerio de Educación, Subsecretaría de Educación Superior (s. f.). Gratuidad. 
+http://www.gratuidad.cl/ 
+2.14.7 Referenciar página web con un autor principal 
+Moret, D. (7 de octubre de 2019). 7 consejos para pedir una hipoteca. Rastreator. 
+https://www.rastreator.com/hipotecas/consejos/pedir-una-hipoteca.aspx 
+2.14.8 Referencias páginas web dinámica 
+En casos de páginas web que tengan actualizaciones de datos constantes, y no exista una 
+versión archivada, debemos agregar la fecha de recuperación.
+Center for Systems Science and Engineering. (s.f.). COVID-19 Dashboard by the Center for 
+Systems Science and Engineering (CSSE) at Johns Hopkins University. Johns Hopkins 
+University. Recuperado el 25 de mayo de 2020 de 
+https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd402994
+23467b48e9ecf6 
+
+===== PAGINA 27 =====
+31 
+31 
+2.14.9 Referenciar conferencias, simposios, congresos, seminarios. 
+ Conferencia:
+ Autor. Informe los nombres de los conferencistas en el elemento autor. 
+ Fecha. Proporcione la fecha completa de la conferencia en el elemento de fecha. 
+ Título. Describa la presentación entre corchetes después del título. La descripción es 
+flexible (Ejemplo: [Sesión de conferencia], [Presentación en papel], [Discurso principal], etc.). 
+ Fuente. Proporcione el nombre de la conferencia o reunión y su ubicación en el elemento 
+fuente de la referencia. Si el video de la presentación de la conferencia está disponible, incluya un 
+enlace al final de la referencia. 
+ Ejemplo: 
+Sánchez, C., Ayala, D. y Bocarosa, E. (17-29 de noviembre de 2018). La biodiversidad y la 
+supervivencia humana en la tierra [Discurso principal]. Conferencia de las Naciones 
+Unidas, Sharm, El-Sheikh, Egipto. 
+Simposio:
+Un simposio es como un libro editado. Varios autores se reúnen bajo el liderazgo de un 
+moderador para unir sus conocimientos sobre un tema. 
+Ejemplo de un evento con moderador: 
+Sánchez, C. y Ayala, D. (7-8 de marzo de 2015). ¿Serían las criptomonedas el futuro del liberalismo 
+económico? En J. Figueiredo (Moderador), Teorías económicas modernas. Simposio de 
+economía. Universidad de los Andes, Bogotá, Colombia. 
+Ejemplo de un evento sin moderador 
+Sánchez, C. y Ayala, D. (7-8 de marzo de 2015). ¿Serían las criptomonedas el futuro del 
+liberalismo económico?, Teorías económicas modernas. Simposio de economía. 
+Universidad de los Andes, Bogotá, Colombia. 
+Resumen de una presentación de conferencia:
+Para citar solo el resumen de la presentación de una conferencia, incluya la palabra 
+“resumen” como parte de la descripción entre corchetes. Por ejemplo: [Resumen de presentación 
+de la conferencia]. 
+Masiero, S. (7–10 de julio de 2015). Teoría de la evaluación de la conexión neurosocial [Resumen 
+de presentación de la conferencia]. Segunda convención de la Asociación Argentina de 
+Alternativas en Psicología, Buenos Aires, Argentina. https://url.org/resumen.pdf 
+
+===== PAGINA 28 =====
+32 
+32 
+2.14.10 Citas y referencias de Normas de Calidad 
+Primera cita en el texto 
+(Organización Internacional de Normalización [ISO], 2010) 
+Organización Internacional de Normalización (ISO, 2010) 
+Siguientes citas en el texto 
+(ISO, 2010) 
+ISO (2010) 
+Referencia 
+Organización Internacional de Normalización. (2010). Guía de responsabilidad social (ISO 
+26000). https://www.iso.org/files/live/sites/isoorg/files/store/sp/PUB100258_sp.pdf 
+2.15 Uso de administración de fuentes en Word 
+Utilizando administración de fuentes de Word, ingresar en la ventana referencias, estilo 
+APA, insertar cita, agregar nueva fuente 
+Agregar la respectiva información en la ventana, 
+Al aceptar se crea la cita y puede configurarla de acuerdo a lo establecido en esta guía. 
+Cita: (Herrera Cáceres y Rosillo Peña, 2019) 
+Referencia: 
+Herrera Cáceres, C. y Rosillo Peña, M. (2019). Confort y eficiencia energética en el diseño de 
+edificaciones. Universidad del Valle. 
+
+===== PAGINA 29 =====
+33 
+33 
+2.16 Resumen del Formato General del Trabajo de Titulación 
+Papel 
+Tamaño carta, papel 8 ½” x 11” 
+Tipo de letra 
+Times New Roman, 12 puntos. 
+Espaciado 
+Interlineado de 1.5, alineado justificado, 
+excepto en tablas y figuras. 
+Márgenes 
+ 2,54 cm en toda la hoja. 
+Sangría 
+1 Tabulador en la primera línea de cada párrafo.
+Abreviaturas 
+Cap. Capítulo 
+Ed. Edición 
+Ed. Rev. Edición revisada 
+Ed. (Eds.) Editor (Editores) 
+Trad. Traductor (es) 
+S.F. Sin fecha 
+p. (pp.) Página (páginas) 
+Vol. Volumen 
+Vols. Volúmenes 
+No. Número 
+Pte. Parte 
+Suppl. Suplemento 
+ 
+2,54 
+2,54 2,54 2,54
+
+===== PAGINA 30 =====
+34 
+34 
+3. Áreas y Subáreas de Ingeniería Civil Industrial 
+La Escuela de Ingeniería Civil Industrial en conjunto con el Instituto de Ingeniería Industrial 
+y Sistemas de la Facultad de Ciencias de la Ingeniería de la Universidad Austral de Chile, 
+definieron cinco áreas en las que los estudiantes de Ingeniería Civil Industrial deben orientar sus 
+trabajos de titulación. A continuación, se exponen cada una de las áreas y sub-áreas: 
+Analítica de Negocios 
+Big data 
+Ingeniería financiera 
+Inteligencia Artificial 
+Diseño y despliegue de indicadores de gestión 
+Marketing 
+Planificación estratégica (Análisis estratégico, Gestión estratégica, Prospectivo estratégico) 
+Pronósticos 
+Factor Humano y Ergonomía 
+Ergonomía 
+Ergonomía cognitiva 
+Gestión de talento humano 
+Modelado y Simulación 
+Simulación de sistemas dinámicos 
+Simulación de eventos discretos 
+Simulación de tráfico urbano 
+Operaciones y Cadena de Suministros 
+Cadena de suministros y logística 
+Capacidad y programación de la producción 
+Gestión ambiental 
+Gestión de calidad (Lean six sigma, control de procesos, calidad de servicio) 
+Gestión de inventarios 
+Localización y diseño de instalaciones 
+Mantenimiento 
+Emprendimiento
+Estudio de Factibilidad 
+Investigación y desarrollo de productos 
+Plan de negocios 
+ 
+
+===== PAGINA 31 =====
+35 
+35 
+Referencias 
+Asociación Americana de Psicología. (2020). Manual de publicación de la Asociación Americana 
+de Psicología (7º ed.). Asociación Americana de 
+Psicología. https://doi.org/10.1037/0000165-000 
+Sánchez, C. (26 de febrero de 2020). Listas. Normas APA (7ma edición). https://normas￾apa.org/estilo/listas/ 
+
+===== PAGINA 32 =====
+36 
+36 
+Anexos
+
+===== PAGINA 33 =====
+37 
+Anexo A. Portada
+MODELO DE SIMULACIÓN DE UNA PRODUCTORA DE 
+CERVEZA ARTESANAL UTILIZANDO DINÁMICA DE 
+SISTEMAS
+Proyecto para optar al título de 
+Ingeniero(a) Civil Industrial
+Profesor Patrocinante: 
+Dr. Nombre y Apellidos 
+Título de Pregrado 
+Profesor Informante: 
+Mg. Nombre y Apellidos 
+Título de Pregrado 
+Profesora Informante: 
+Sra. Nombre y Apellidos 
+Título de Pregrado 
+NOMBRE COMPLETO DEL MEMORISTA 
+VALDIVIA – CHILE 
+AÑO
+
+===== PAGINA 34 =====
+29 
+Anexo B. Declaración del Memorista 
+Declaración del Estudiante 
+Declaro ser el único autor de este Informe de Trabajo de Titulación y haber referenciado 
+debidamente todas las fuentes de información utilizadas. 
+____________________________ 
+Nombre Completo 
+
+===== PAGINA 35 =====
+30 
+Anexo C. Resumen
+Resumen 
+Esta investigación se centra en la aplicación de un enfoque basado en la simulación microscópica del 
+tráfico, para evaluar el impacto de la construcción de nuevos estacionamientos subterráneos en el flujo 
+vehicular de las áreas circundantes. Fue analizada la construcción de dos futuras alternativas de 
+estacionamientos que podrían ser construidos bajo la plaza de la República en la ciudad de Valdivia 
+en periodos punta mañana de 07:00 a 09:00 horas y punta tarde de 18:00 a 20:00 horas. Los datos de 
+flujo de tráfico fueron obtenidos de variadas fuentes, desde los datos existentes puestos a disposición 
+por las oficinas locales de estadística y transporte (Instituto Nacional de estadísticas, INE, y la 
+Secretaría Regional de Transportes, SECTRA), hasta los datos recopilados en terreno a través de la 
+observación directa y medición. Se desarrolló un modelo base para simular la situación actual 
+utilizando el microsimulador VISSIM. Este modelo estaba destinado a ser utilizado como línea base 
+para comparar futuras modificaciones a la infraestructura vial existente. Finalmente, se propuso y 
+simuló un tercer escenario con un diseño alternativo para los puntos de entrada y salida de los 
+estacionamientos. Los resultados de la simulación indican que el enfoque propuesto para evaluar el 
+impacto de la construcción de estacionamientos subterráneos podría ser una herramienta útil para 
+medir el impacto general en el flujo de tráfico del área circundante. 
+Palabras clave: Simulación, Flujo de Tráfico, Red de carreteras, Microsimulador. 
+
+===== PAGINA 36 =====
+31 
+Anexo D. Abstract 
+Abstract 
+This research focuses on the application of an approach based on the microscopic simulation of traffic, 
+to evaluate the impact of the construction of new underground parking lots on the vehicular flow of 
+the surrounding areas. The construction of two future parking alternatives that could be built under 
+the “Plaza de la República” in Valdivia city was analyzed. The observation periods are two, from 
+07:00 to 09:00 hours in the morning and in the late afternoon from 18:00 to 20:00 hours. To develop 
+the research, it was necessary to use a lot of bibliography. In the same way, traffic flow data was 
+extracted from different sources. Starting with existing data made available by local statistics and 
+transport offices (Instituto nacional de estadistica, INE, and the Secretaría Regional de Transportes, 
+SECTRA), to Data collected in the field through direct observation and measurement. A base model 
+was developed to simulate the current situation using the VISSIM microsimulator. This model was 
+intended to be used as a baseline to compare future modifications to existing road infrastructure. Next, 
+a new model was implemented that contains the future location of the entry and exit points of the 
+underground parking lots on the road grid, so that the effect of the vehicles entering and leaving the 
+parking lots in the traffic flow could be compared with the initial situation, simulated in the base 
+model. Finally, a third scenario was proposed and simulated with an alternative design for the entry 
+and exit points of the parking lots. The simulation results indicate that the proposed approach to assess 
+the impact of underground parking construction could be an useful tool to measure the overall impact 
+on the traffic flow of the surrounding area. 
+Key Words: Simulation, Traffic flow, City's road network, Microsimulator. 
+
+===== PAGINA 37 =====
+32 
+Anexo E. Agradecimientos
+Agradecimientos 
+Agradecimientos a (no necesariamente en el orden presentado) 
+a) Patrocinante 
+b) Comisión de Evaluación 
+c) Agencias de financiamiento 
+d) Colaboradores 
+e) Compañeros 
+f) Amigos 
+g) Familiares 
+
+===== PAGINA 38 =====
+33 
+Anexo F. Comisión de Evaluación
+Comisión de Evaluación 
+Profesor Patrocinante _______________________________ 
+Dr. Primer nombre y Apellidos 
+Título 
+Instituto 
+(Profesor) Copatrocinante _______________________________ 
+Mg. Primer nombre y Apellidos 
+Título 
+Instituto, Institución o Empresa 
+(Profesor) Informante _______________________________ 
+Sra. Primer nombre y Apellidos 
+Título 
+Instituto, Institución o Empresa 
+
+===== PAGINA 39 =====
+34 
+Anexo G. Índice General 
+
+===== PAGINA 40 =====
+35 
+Anexo H. Ejemplo de Índice de Tablas y Figuras
+
+===== PAGINA 41 =====
+36 
+
+===== PAGINA 42 =====
+37 
+Anexo I. Lista de abreviaturas
+Lista de Abreviaturas 
+INE Instituto Nacional de Estadísticas. 
+PTV Planificación de Transporte y Tránsito, traducción del alemán Planung Transport 
+Verkehr. 
+SECTRA Secretaría de Planificación de Transporte. 
+TSD Retraso total del sistema, traducción del inglés Total system delay. 
+VHT Horas viajadas por vehículo, traducción del inglés Vehicle hours travelled.
+VISSIM Simulación del tránsito en las ciudades, traducción del alemán Verkehr In Städten – 
+SIMulation. 
+VMT Millas viajadas por vehículo, traducción del inglés Vehicle miles travelled. 
+vph Vehículos por hora. 
+
+===== PAGINA 43 =====
+38 
+Anexo J. Ejemplo de Glosario
+Glosario 
+Arco Una sección de calle o autopista donde las características físicas como los 
+carriles y el ancho son en general (no absolutamente) similares a lo largo de 
+la sección. 
+Calibración Proceso cuyo objetivo es identificar los parámetros globales y específicos del 
+arco para la operación del vehículo y el comportamiento del conductor, estos 
+logran que el modelo de simulación reproduzca mejor el comportamiento 
+observado en el mundo real para las condiciones locales. 
+Carril Franja longitudinal en que puede estar dividido un arco, delimitado o no por 
+marcas viales longitudinales, y con anchura suficiente para la circulación de 
+una fila de flujo vehicular. 
+Estadístico GEH Expresión estadística utilizada en ingeniería de tráfico, modelización de 
+transporte y modelización de tráfico para comparar dos conjuntos de 
+volúmenes de tránsito vehicular. 
+Flujo Corresponde indistintamente al número de peatones, ciclistas o vehículos que 
+circulan por una sección de vía por unidad de tiempo. Típicamente está 
+referido a una hora o bien a 15 minutos. 
+Infraestructura vial Es todo conjunto de elementos que permite el desplazamiento de vehículos 
+en forma confortable y segura desde un punto a otro. 
+Línea de detención Línea transversal al arco, demarcada antes de una intersección o de un paso 
+para peatones, que no debe ser sobrepasada por los vehículos que deben 
+detenerse. 
+Nodo Punto donde se conectan dos calles. A menudo, una intersección de dos o 
+más calles. 
+
+===== PAGINA 44 =====
+39 
+Anexo K. Referencias
+Referencias 
+Aguaded, J. y Cabero, J. (1995). Educación y medios de comunicación en el contexto iberoamericano. 
+Huelva, España: Universidad Internacional de Andalucía. 
+Almaguer, T. y Elizondo, A. (1998). Fundamentos sociales y psicológicos de la educación. México, 
+México: Editorial Trillas. 
+Area, M. (1990). Los medios de la enseñanza: conceptualización y tipología. Recuperado el 23 de 
+junio de 2003, de http://www.ull.es/departamentos/didinv/tecnologiaeducativa/ 
+doc-ConcepMed.htm 
+Barceló J., Casas J., García D. y Perarnau J. (2005). Methodological notes on combining macro, meso 
+and Micro Models for Transportation Analysis. Recuperado de: 
+https://www.researchgate.net/publication/242154775_methodological_notes_on_combining_
+macro_meso_and_micro_models_for_transportation_analysis 
+Barroso, J. (2003). Las nuevas tecnologías de la información y la comunicación y la formación del 
+profesorado universitario. Recuperado el 20 junio de 2004, de 
+http://tecnologiaedu.us.es/bibliovir/pdf/BARROSO.pdf 
+Beylot, A. y Labiod, H. (2013). Vehicular Networks: Models and Algorithms. London, UK: ISTE Ltd. 
+Hoboken, USA: John Wiley &Sons. 
+Blank, L. y Tarquín, A. (1999). Ingeniería económica. (4a. ed.). Bogotá, Colombia: 
+Mc Graw Hill. 
+Burbano, L. (2003). Teorías del aprendizaje. Recuperado el 06 de febrero de 2006, de 
+http://www.monografias.com/trabajos13/teapre/teapre2.shtml 
+Cabero, J. (1991). Líneas y tendencias de investigación en medios de enseñanza. Recuperado el 19 de 
+junio de 2004, de http://tecnologiaedu.us.es/bibliovir/pdf/69.pdf 
+Medina León, A., Nogueira Rivera, D., Comas Rodríguez, R. y Medina Nogueira, D. (julio 2014). 
+IX Congreso Internacional de Gestión Empresarial y Administración Pública y el V Taller 
+Internacional de Escuelas y Facultades de Capacitación de Directivos. La Habana, Cuba. 
+https://bit.ly/3wpJT2T 
+
+===== PAGINA 45 =====
+40 
+Anexo L. Cuestionario Nórdico Estandarizado 
